@@ -1,3 +1,11 @@
 page-home {
-
+  ion-item {
+    ion-img {
+      width: 40px;
+      height: 40px;
+    }
+    h2 {
+      font-size: 1.8rem !important;
+    }
+  }
 }
